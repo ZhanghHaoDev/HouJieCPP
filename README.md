@@ -6,8 +6,6 @@
 
 ## 资料
 百度网盘：
-<img src = "//imag//二维码.png"></img>
-
 ## 环境设置
 1. 文本编辑器：vs code 
 2. 语言：markdown
